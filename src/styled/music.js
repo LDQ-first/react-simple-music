@@ -7,11 +7,11 @@ const thumbBlue = blue[500]
 const thumbborderBlue = blue[300]
 
 const needleUrl = process.env.NODE_ENV === 'production' 
-    ? '/react-allfamily/dist/static/img/needle.png'
+    ? '/react-simple-music/dist/static/img/needle.png'
     : '../../static/img/needle.png'
 
 const discoUrl = process.env.NODE_ENV === 'production' 
-    ? '/react-allfamily/dist/static/img/disco.png'
+    ? '/react-simple-music/dist/static/img/disco.png'
     : '../../static/img/disco.png'
 
 

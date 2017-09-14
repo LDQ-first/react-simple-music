@@ -1,10 +1,10 @@
 import styled from 'styled-components'
 const bg1Url = process.env.NODE_ENV === 'production' 
-    ? '/react-allfamily/dist/static/img/bg1.jpg'
+    ? '/react-simple-music/dist/static/img/bg1.jpg'
     : '../../static/img/bg1.jpg'
 
 const bg2Url =  process.env.NODE_ENV === 'production' 
-    ? '/react-allfamily/dist/static/img/bg2.jpg'
+    ? '/react-simple-music/dist/static/img/bg2.jpg'
     : '../../static/img/bg2.jpg'
 
 
