@@ -15,7 +15,7 @@
     "babel1": "cnpm install --save-dev babel-core babel-loader babel-eslint babel-polyfill babel-preset-es2015  babel-plugin-transform-runtime babel-preset-react babel-preset-stage-0",
     "babel2": "cnpm install --save-dev  babel-plugin-transform-decorators-legacy babel-runtime babel-preset-react-hmre ",
     "flow": "cnpm install --save-dev flow-bin babel-cli babel-preset-flow",
-    "css": "npm run sass && npm run sc",
+    "css": "npm run sass && npm run sc", 
     "sass": "cnpm install --save-dev sass-loader node-sass",
     "sc": "cnpm install --save styled-components classnames",
     "dll": "webpack --config ./build/webpack.dll.config.js",
