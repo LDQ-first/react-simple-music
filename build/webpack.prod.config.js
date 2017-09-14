@@ -24,7 +24,7 @@ module.exports =  {
         path: path.join(__dirname, '../dist'),
         filename: 'static/js/[name].[chunkhash:8].js',
         chunkFilename: 'static/js/[name].[chunkhash:8].js',
-        publicPath: '/react-allfamily/dist/'
+        publicPath: '/react-simple-music/dist/'
     },
     resolve: {
         extensions: ['.js', '.jsx', '.json'],
