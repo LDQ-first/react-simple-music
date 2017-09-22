@@ -30,7 +30,7 @@
 
 ## 效果图
 
-![效果图](https://ldq-first.github.io/react-eyepetizer/static/result/001.gif)
+![效果图](https://ldq-first.github.io/react-simple-music/static/result/001.gif)
 
 
 
