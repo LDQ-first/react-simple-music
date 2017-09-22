@@ -32,7 +32,7 @@ export default class SongList extends Component {
             <div className="song-lists">
                 <header className="song-lists-header">
                     <div className="song-lists-content">
-                        img ? <img src={img} className="song-lists-img"/> : null
+                        {img ? <img src={img} className="song-lists-img"/> : null}
                         <h2 className="song-lists-title">{songListDesc}</h2>
                     </div>
                     <div className="song-lists-bg" style={{
